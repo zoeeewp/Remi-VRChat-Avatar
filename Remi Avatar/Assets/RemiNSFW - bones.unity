@@ -1716,7 +1716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: avtr_fb3dcd90-4e85-4e25-867a-7dee359f6176
+  blueprintId: avtr_dbaadba0-31ba-41e8-924e-c502df41f5e4
   contentType: 0
   assetBundleUnityVersion: 
 --- !u!1 &678507211
@@ -1748,7 +1748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  ViewPosition: {x: -0.012, y: 1.25, z: 0.07}
+  ViewPosition: {x: 0, y: 1.25, z: 0.07}
   Animations: 1
   ScaleIPD: 1
   lipSync: 3
@@ -3242,7 +3242,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678507201}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.029, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 678866907}
