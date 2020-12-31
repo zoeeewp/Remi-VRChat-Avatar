@@ -1605,21 +1605,21 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.745
+  m_Elasticity: 0.456
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Stiffness: 0.549
+  m_Stiffness: 0.243
   m_StiffnessDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Inert: 0.121
+  m_Inert: 0.155
   m_InertDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -1716,7 +1716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 1
-  blueprintId: avtr_fbaa36d2-47ca-4e1b-934a-25e8b3613b96
+  blueprintId: avtr_5f1c3498-e26f-49c2-9cb9-30046812a5bf
   contentType: 0
   assetBundleUnityVersion: 
 --- !u!1 &678507211
