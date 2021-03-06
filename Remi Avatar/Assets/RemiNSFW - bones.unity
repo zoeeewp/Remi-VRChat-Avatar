@@ -1412,7 +1412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Root: {fileID: 678866937}
-  m_UpdateRate: 15
+  m_UpdateRate: 50
   m_UpdateMode: 3
   m_Damping: 0.234
   m_DampingDistrib:
@@ -1495,7 +1495,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Root: {fileID: 678866939}
-  m_UpdateRate: 15
+  m_UpdateRate: 50
   m_UpdateMode: 3
   m_Damping: 0.234
   m_DampingDistrib:
@@ -1572,13 +1572,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678507201}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Root: {fileID: 678866901}
-  m_UpdateRate: 40
+  m_UpdateRate: 50
   m_UpdateMode: 3
   m_Damping: 0.279
   m_DampingDistrib:
@@ -1605,21 +1605,21 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.456
+  m_Elasticity: 0.254
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Stiffness: 0.243
+  m_Stiffness: 0.267
   m_StiffnessDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Inert: 0.155
+  m_Inert: 0.245
   m_InertDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -1716,7 +1716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 1
-  blueprintId: avtr_5f1c3498-e26f-49c2-9cb9-30046812a5bf
+  blueprintId: avtr_fbaa36d2-47ca-4e1b-934a-25e8b3613b96
   contentType: 0
   assetBundleUnityVersion: 
 --- !u!1 &678507211
@@ -3242,7 +3242,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678507201}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.07, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 678866907}
